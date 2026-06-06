@@ -58,14 +58,41 @@ StegoVault addresses these challenges by providing:
 
 ---
 
+## ⚡ Getting Started
+
+### Backend (Django)
+
+```powershell
+cd backend
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt
+python manage.py migrate --run-syncdb
+python manage.py runserver
+```
+
+> On Windows PowerShell, use `.\start.bat` as a shortcut for the above steps.
+
+Backend runs at `http://localhost:8000`.
+
+### Frontend (React)
+
+```powershell
+cd frontend/stegovault-frontend
+npm install
+npm run dev
+```
+
+Frontend runs at `http://localhost:5173`.
+
+---
+
 ## 🚀 Usage
 
-1. Open the frontend application in your browser.  
-2. Upload an image or audio file as a carrier.  
-3. Enter a secret (password, note, API key).  
-4. AI recommends the best file (optional).  
-5. Embed the secret and download the disguised file.  
-6. To retrieve the secret, upload the disguised file and provide the master key.
+1. Open `http://localhost:5173` in your browser.
+2. **Encode** — upload a carrier image, enter your secret and a master password. Download the stego image.
+3. **Decode** — upload the stego image and enter the master password to recover the secret.
+4. **AI Analyze** — upload multiple images; the AI scores each by entropy, chi-square, and noise variance to recommend the best carrier.
 
 ---
 
