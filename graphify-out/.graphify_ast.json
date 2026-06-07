@@ -1,0 +1,3276 @@
+{
+  "nodes": [
+    {
+      "id": "claude_settings_local",
+      "label": "settings.local.json",
+      "file_type": "code",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "claude_settings_local_permissions",
+      "label": "permissions",
+      "file_type": "code",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "claude_settings_local_permissions_allow",
+      "label": "allow",
+      "file_type": "code",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "claude_settings_local_enabledmcpjsonservers",
+      "label": "enabledMcpjsonServers",
+      "file_type": "code",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "mcp",
+      "label": ".mcp.json",
+      "file_type": "code",
+      "source_file": ".mcp.json",
+      "source_location": "L1",
+      "metadata": {
+        "mcp_kind": "mcp_config_file"
+      }
+    },
+    {
+      "id": "mcp_mcp_server_shadcn",
+      "label": "shadcn",
+      "file_type": "code",
+      "source_file": ".mcp.json",
+      "source_location": "L1",
+      "metadata": {
+        "mcp_kind": "mcp_server"
+      }
+    },
+    {
+      "id": "mcp_command_npx",
+      "label": "npx",
+      "file_type": "code",
+      "source_file": ".mcp.json",
+      "source_location": "L1",
+      "metadata": {
+        "mcp_kind": "mcp_command"
+      }
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_type",
+      "label": "type",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_dev",
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_build",
+      "label": "build",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_lint",
+      "label": "lint",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_preview",
+      "label": "preview",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react",
+      "label": "react",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react_dom",
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_js",
+      "label": "@eslint/js",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L17"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react",
+      "label": "@types/react",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react_dom",
+      "label": "@types/react-dom",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vitejs_plugin_react",
+      "label": "@vitejs/plugin-react",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint",
+      "label": "eslint",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_hooks",
+      "label": "eslint-plugin-react-hooks",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_refresh",
+      "label": "eslint-plugin-react-refresh",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_globals",
+      "label": "globals",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vite",
+      "label": "vite",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_src_app_jsx_src_app",
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_src_app_jsx_src_app_app",
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L6"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_src_main_jsx_src_main",
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "stegovault_ainnovation_frontend_stegovault_frontend_vite_config_js_stegovault_frontend_vite_config",
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/vite.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "backend_manage",
+      "label": "manage.py",
+      "file_type": "code",
+      "source_file": "backend/manage.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "backend_manage_main",
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "backend/manage.py",
+      "source_location": "L5"
+    },
+    {
+      "id": "stegovault_init",
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "backend/stegovault/__init__.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "stegovault_settings",
+      "label": "settings.py",
+      "file_type": "code",
+      "source_file": "backend/stegovault/settings.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "stegovault_urls",
+      "label": "urls.py",
+      "file_type": "code",
+      "source_file": "backend/stegovault/urls.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "stegovault_wsgi",
+      "label": "wsgi.py",
+      "file_type": "code",
+      "source_file": "backend/stegovault/wsgi.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_init",
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "backend/vault/__init__.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_ai_scorer",
+      "label": "ai_scorer.py",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_ai_scorer_shannon_entropy",
+      "label": "_shannon_entropy()",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L15"
+    },
+    {
+      "id": "ndarray",
+      "label": "ndarray",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L15"
+    },
+    {
+      "id": "float",
+      "label": "float",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L15"
+    },
+    {
+      "id": "vault_ai_scorer_lsb_chi_square",
+      "label": "_lsb_chi_square()",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L21"
+    },
+    {
+      "id": "vault_ai_scorer_noise_estimate",
+      "label": "_noise_estimate()",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L30"
+    },
+    {
+      "id": "vault_ai_scorer_analyze",
+      "label": "analyze()",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L39"
+    },
+    {
+      "id": "backend_vault_ai_scorer_py_bytes",
+      "label": "bytes",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L39"
+    },
+    {
+      "id": "backend_vault_ai_scorer_py_str",
+      "label": "str",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L39"
+    },
+    {
+      "id": "vault_ai_scorer_rank",
+      "label": "rank()",
+      "file_type": "code",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L91"
+    },
+    {
+      "id": "vault_ai_scorer_rationale_1",
+      "label": "AI Carrier Scoring — analyzes images to pick the best steganography carrier.  Me",
+      "file_type": "rationale",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_ai_scorer_rationale_22",
+      "label": "Chi-square test on LSB distribution. Values near 0 mean LSBs are already uniform",
+      "file_type": "rationale",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L22"
+    },
+    {
+      "id": "vault_ai_scorer_rationale_31",
+      "label": "Laplacian variance as a proxy for image noise/texture richness.",
+      "file_type": "rationale",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L31"
+    },
+    {
+      "id": "vault_apps",
+      "label": "apps.py",
+      "file_type": "code",
+      "source_file": "backend/vault/apps.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_apps_vaultconfig",
+      "label": "VaultConfig",
+      "file_type": "code",
+      "source_file": "backend/vault/apps.py",
+      "source_location": "L3"
+    },
+    {
+      "id": "appconfig",
+      "label": "AppConfig",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": ""
+    },
+    {
+      "id": "vault_crypto",
+      "label": "crypto.py",
+      "file_type": "code",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_crypto_derive_key",
+      "label": "_derive_key()",
+      "file_type": "code",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L9"
+    },
+    {
+      "id": "backend_vault_crypto_py_str",
+      "label": "str",
+      "file_type": "code",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L9"
+    },
+    {
+      "id": "backend_vault_crypto_py_bytes",
+      "label": "bytes",
+      "file_type": "code",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L9"
+    },
+    {
+      "id": "vault_crypto_encrypt",
+      "label": "encrypt()",
+      "file_type": "code",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L19"
+    },
+    {
+      "id": "vault_crypto_decrypt",
+      "label": "decrypt()",
+      "file_type": "code",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L30"
+    },
+    {
+      "id": "vault_crypto_rationale_20",
+      "label": "AES-256-GCM encrypt. Returns base64(salt + nonce + ciphertext).",
+      "file_type": "rationale",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L20"
+    },
+    {
+      "id": "vault_crypto_rationale_31",
+      "label": "AES-256-GCM decrypt. Raises ValueError on bad password/tampered data.",
+      "file_type": "rationale",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L31"
+    },
+    {
+      "id": "vault_stego",
+      "label": "stego.py",
+      "file_type": "code",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_stego_text_to_bits",
+      "label": "_text_to_bits()",
+      "file_type": "code",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L7"
+    },
+    {
+      "id": "backend_vault_stego_py_str",
+      "label": "str",
+      "file_type": "code",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L7"
+    },
+    {
+      "id": "int",
+      "label": "int",
+      "file_type": "code",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L7"
+    },
+    {
+      "id": "vault_stego_bits_to_text",
+      "label": "_bits_to_text()",
+      "file_type": "code",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L15"
+    },
+    {
+      "id": "vault_stego_encode",
+      "label": "encode()",
+      "file_type": "code",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L25"
+    },
+    {
+      "id": "backend_vault_stego_py_bytes",
+      "label": "bytes",
+      "file_type": "code",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L25"
+    },
+    {
+      "id": "vault_stego_decode",
+      "label": "decode()",
+      "file_type": "code",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L54"
+    },
+    {
+      "id": "vault_stego_rationale_26",
+      "label": "Embed secret string into image bytes via LSB. Returns PNG bytes.",
+      "file_type": "rationale",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L26"
+    },
+    {
+      "id": "vault_stego_rationale_55",
+      "label": "Extract hidden secret from LSB-encoded image bytes.",
+      "file_type": "rationale",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L55"
+    },
+    {
+      "id": "vault_urls",
+      "label": "urls.py",
+      "file_type": "code",
+      "source_file": "backend/vault/urls.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_views",
+      "label": "views.py",
+      "file_type": "code",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L1"
+    },
+    {
+      "id": "vault_views_encode_view",
+      "label": "encode_view()",
+      "file_type": "code",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L13"
+    },
+    {
+      "id": "vault_views_decode_view",
+      "label": "decode_view()",
+      "file_type": "code",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L42"
+    },
+    {
+      "id": "vault_views_analyze_view",
+      "label": "analyze_view()",
+      "file_type": "code",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L65"
+    },
+    {
+      "id": "frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_name",
+      "label": "name",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_private",
+      "label": "private",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L3"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_version",
+      "label": "version",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L4"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_type",
+      "label": "type",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L5"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L6"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_dev",
+      "label": "dev",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L7"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_build",
+      "label": "build",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L8"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_lint",
+      "label": "lint",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L9"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_preview",
+      "label": "preview",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L10"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "label": "dependencies",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L12"
+    },
+    {
+      "id": "stegovault_frontend_package_dependencies_lucide_react",
+      "label": "lucide-react",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L13"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react",
+      "label": "react",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L14"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react_dom",
+      "label": "react-dom",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L15"
+    },
+    {
+      "id": "stegovault_frontend_package_dependencies_recharts",
+      "label": "recharts",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L16"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L18"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_js",
+      "label": "@eslint/js",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L19"
+    },
+    {
+      "id": "stegovault_frontend_package_devdependencies_tailwindcss_vite",
+      "label": "@tailwindcss/vite",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L20"
+    },
+    {
+      "id": "stegovault_frontend_package_devdependencies_types_node",
+      "label": "@types/node",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L21"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react",
+      "label": "@types/react",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L22"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react_dom",
+      "label": "@types/react-dom",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L23"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vitejs_plugin_react",
+      "label": "@vitejs/plugin-react",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L24"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint",
+      "label": "eslint",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L25"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_hooks",
+      "label": "eslint-plugin-react-hooks",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L26"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_refresh",
+      "label": "eslint-plugin-react-refresh",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L27"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_globals",
+      "label": "globals",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L28"
+    },
+    {
+      "id": "stegovault_frontend_package_devdependencies_tailwindcss",
+      "label": "tailwindcss",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L29"
+    },
+    {
+      "id": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vite",
+      "label": "vite",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L30"
+    },
+    {
+      "id": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "src_app_useclickoutside",
+      "label": "useClickOutside()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L20"
+    },
+    {
+      "id": "src_app_filedropzone",
+      "label": "FileDropZone()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L34"
+    },
+    {
+      "id": "src_app_alert",
+      "label": "Alert()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L66"
+    },
+    {
+      "id": "src_app_toggle",
+      "label": "Toggle()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L78"
+    },
+    {
+      "id": "src_app_profiledropdown",
+      "label": "ProfileDropdown()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L88"
+    },
+    {
+      "id": "src_app_advancedoptions",
+      "label": "AdvancedOptions()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L121"
+    },
+    {
+      "id": "src_app_contextmenu",
+      "label": "ContextMenu()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L159"
+    },
+    {
+      "id": "src_app_mock_secrets",
+      "label": "MOCK_SECRETS",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L176"
+    },
+    {
+      "id": "src_app_secretmanagementtable",
+      "label": "SecretManagementTable()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L183"
+    },
+    {
+      "id": "src_app_encodemodal",
+      "label": "EncodeModal()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L231"
+    },
+    {
+      "id": "src_app_encodeview",
+      "label": "EncodeView()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L300"
+    },
+    {
+      "id": "src_app_decodeview",
+      "label": "DecodeView()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L311"
+    },
+    {
+      "id": "src_app_scorebar",
+      "label": "ScoreBar()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L381"
+    },
+    {
+      "id": "src_app_analyzeview",
+      "label": "AnalyzeView()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L390"
+    },
+    {
+      "id": "src_app_linkperfdata",
+      "label": "linkPerfData",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L488"
+    },
+    {
+      "id": "src_app_capacitydata",
+      "label": "capacityData",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L497"
+    },
+    {
+      "id": "src_app_activitydata",
+      "label": "activityData",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L499"
+    },
+    {
+      "id": "src_app_geo_data",
+      "label": "GEO_DATA",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L509"
+    },
+    {
+      "id": "src_app_tt",
+      "label": "TT",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L517"
+    },
+    {
+      "id": "src_app_worldmap",
+      "label": "WorldMap()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L519"
+    },
+    {
+      "id": "src_app_statcard",
+      "label": "StatCard()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L570"
+    },
+    {
+      "id": "src_app_analyticsview",
+      "label": "AnalyticsView()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L583"
+    },
+    {
+      "id": "src_app_tabs",
+      "label": "TABS",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L682"
+    },
+    {
+      "id": "frontend_stegovault_frontend_src_app_jsx_src_app_app",
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L689"
+    },
+    {
+      "id": "frontend_stegovault_frontend_src_main_jsx_src_main",
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L1"
+    },
+    {
+      "id": "frontend_stegovault_frontend_vite_config_js_stegovault_frontend_vite_config",
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "frontend/stegovault-frontend/vite.config.js",
+      "source_location": "L1"
+    },
+    {
+      "id": "package",
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1"
+    },
+    {
+      "id": "package_devdependencies",
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2"
+    },
+    {
+      "id": "package_devdependencies_shadcn",
+      "label": "shadcn",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3"
+    }
+  ],
+  "edges": [
+    {
+      "source": "claude_settings_local",
+      "target": "claude_settings_local_permissions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "claude_settings_local_permissions",
+      "target": "claude_settings_local_permissions_allow",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "claude_settings_local_permissions_allow",
+      "target": "ref_bash_npx_shadcn_latest_init_defaults_y",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "claude_settings_local_permissions_allow",
+      "target": "ref_bash_npm_install",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "claude_settings_local",
+      "target": "claude_settings_local_enabledmcpjsonservers",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "claude_settings_local_enabledmcpjsonservers",
+      "target": "ref_shadcn",
+      "relation": "extends",
+      "confidence": "EXTRACTED",
+      "source_file": ".claude/settings.local.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "mcp",
+      "target": "mcp_mcp_server_shadcn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".mcp.json",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "mcp_mcp_server_shadcn",
+      "target": "mcp_command_npx",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": ".mcp.json",
+      "source_location": "L1",
+      "weight": 1.0,
+      "context": "command"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "js",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "globals",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "eslint_plugin_react_hooks",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "eslint_plugin_react_refresh",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "config",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_type",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_lint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react",
+      "target": "react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react_dom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react_dom",
+      "target": "react_dom",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_js",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L17",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_js",
+      "target": "eslint_js",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L17",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react",
+      "target": "types_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react_dom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react_dom",
+      "target": "types_react_dom",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vitejs_plugin_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vitejs_plugin_react",
+      "target": "vitejs_plugin_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint",
+      "target": "eslint",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_hooks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_hooks",
+      "target": "eslint_plugin_react_hooks",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_refresh",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_refresh",
+      "target": "eslint_plugin_react_refresh",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_globals",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_globals",
+      "target": "globals",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vite",
+      "target": "vite",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "c_users_jeeva_git_workshop_24_stegovault_ainnovation_stegovault_ainnovation_frontend_stegovault_frontend_src_assets_react_svg",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "vite_svg",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "c_users_jeeva_git_workshop_24_stegovault_ainnovation_stegovault_ainnovation_frontend_stegovault_frontend_src_app_css",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "stegovault_ainnovation_frontend_stegovault_frontend_src_app_jsx_src_app_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_main_jsx_src_main",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_main_jsx_src_main",
+      "target": "client",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_main_jsx_src_main",
+      "target": "c_users_jeeva_git_workshop_24_stegovault_ainnovation_stegovault_ainnovation_frontend_stegovault_frontend_src_index_css",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_src_main_jsx_src_main",
+      "target": "src_app",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_vite_config_js_stegovault_frontend_vite_config",
+      "target": "vite",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/vite.config.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_ainnovation_frontend_stegovault_frontend_vite_config_js_stegovault_frontend_vite_config",
+      "target": "plugin_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "StegoVault-AINNOVATION/frontend/stegovault-frontend/vite.config.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "backend_manage",
+      "target": "os",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/manage.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "backend_manage",
+      "target": "sys",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/manage.py",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "backend_manage",
+      "target": "backend_manage_main",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/manage.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_settings",
+      "target": "pathlib",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/stegovault/settings.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_urls",
+      "target": "django_urls",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/stegovault/urls.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_wsgi",
+      "target": "os",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/stegovault/wsgi.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_wsgi",
+      "target": "django_core_wsgi",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/stegovault/wsgi.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer",
+      "target": "io",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer",
+      "target": "numpy",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L11",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer",
+      "target": "pil",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer",
+      "target": "vault_ai_scorer_shannon_entropy",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_shannon_entropy",
+      "target": "ndarray",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_shannon_entropy",
+      "target": "float",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer",
+      "target": "vault_ai_scorer_lsb_chi_square",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_lsb_chi_square",
+      "target": "ndarray",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_lsb_chi_square",
+      "target": "float",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer",
+      "target": "vault_ai_scorer_noise_estimate",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_noise_estimate",
+      "target": "ndarray",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_noise_estimate",
+      "target": "float",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer",
+      "target": "vault_ai_scorer_analyze",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_analyze",
+      "target": "backend_vault_ai_scorer_py_bytes",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_analyze",
+      "target": "backend_vault_ai_scorer_py_str",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L39",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer",
+      "target": "vault_ai_scorer_rank",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L91",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_analyze",
+      "target": "vault_ai_scorer_shannon_entropy",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L44",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_analyze",
+      "target": "vault_ai_scorer_lsb_chi_square",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L46",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_analyze",
+      "target": "vault_ai_scorer_noise_estimate",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L50",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_rationale_1",
+      "target": "vault_ai_scorer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_rationale_22",
+      "target": "vault_ai_scorer_lsb_chi_square",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_ai_scorer_rationale_31",
+      "target": "vault_ai_scorer_noise_estimate",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/ai_scorer.py",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_apps",
+      "target": "django_apps",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/apps.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_apps",
+      "target": "vault_apps_vaultconfig",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/apps.py",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_apps_vaultconfig",
+      "target": "appconfig",
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/apps.py",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "os",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "base64",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "cryptography_hazmat_primitives_ciphers_aead",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "cryptography_hazmat_primitives_kdf_pbkdf2",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "cryptography_hazmat_primitives",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "cryptography_exceptions",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "vault_crypto_derive_key",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_derive_key",
+      "target": "backend_vault_crypto_py_str",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_derive_key",
+      "target": "backend_vault_crypto_py_bytes",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_derive_key",
+      "target": "backend_vault_crypto_py_bytes",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "vault_crypto_encrypt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_encrypt",
+      "target": "backend_vault_crypto_py_str",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_encrypt",
+      "target": "backend_vault_crypto_py_str",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_encrypt",
+      "target": "backend_vault_crypto_py_str",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto",
+      "target": "vault_crypto_decrypt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_decrypt",
+      "target": "backend_vault_crypto_py_str",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_decrypt",
+      "target": "backend_vault_crypto_py_str",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_decrypt",
+      "target": "backend_vault_crypto_py_str",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_encrypt",
+      "target": "vault_crypto_derive_key",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_decrypt",
+      "target": "vault_crypto_derive_key",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L35",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_rationale_20",
+      "target": "vault_crypto_encrypt",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_crypto_rationale_31",
+      "target": "vault_crypto_decrypt",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/crypto.py",
+      "source_location": "L31",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego",
+      "target": "pil",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego",
+      "target": "numpy",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego",
+      "target": "vault_stego_text_to_bits",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_text_to_bits",
+      "target": "backend_vault_stego_py_str",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_text_to_bits",
+      "target": "int",
+      "relation": "references",
+      "context": "generic_arg",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego",
+      "target": "vault_stego_bits_to_text",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_bits_to_text",
+      "target": "int",
+      "relation": "references",
+      "context": "generic_arg",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_bits_to_text",
+      "target": "backend_vault_stego_py_str",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego",
+      "target": "vault_stego_encode",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_encode",
+      "target": "backend_vault_stego_py_bytes",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_encode",
+      "target": "backend_vault_stego_py_str",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_encode",
+      "target": "backend_vault_stego_py_bytes",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego",
+      "target": "vault_stego_decode",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_decode",
+      "target": "backend_vault_stego_py_bytes",
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_decode",
+      "target": "backend_vault_stego_py_str",
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L54",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_text_to_bits",
+      "target": "vault_stego_encode",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_encode",
+      "target": "vault_stego_text_to_bits",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L33",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_decode",
+      "target": "vault_stego_bits_to_text",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L62",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_rationale_26",
+      "target": "vault_stego_encode",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_stego_rationale_55",
+      "target": "vault_stego_decode",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/stego.py",
+      "source_location": "L55",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_urls",
+      "target": "django_urls",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/urls.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_urls",
+      "target": "vault_init",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/urls.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "django_http",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "rest_framework_decorators",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "rest_framework_parsers",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "rest_framework_response",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_crypto",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_stego",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_init",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_views_encode_view",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_views_decode_view",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L42",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_views_analyze_view",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L65",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "js",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "globals",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "eslint_plugin_react_hooks",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "eslint_plugin_react_refresh",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_eslint_config_js_stegovault_frontend_eslint_config",
+      "target": "config",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/eslint.config.js",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_name",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_private",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_version",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_type",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L5",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_dev",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_build",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L8",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_lint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L9",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_scripts_preview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L12",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "target": "stegovault_frontend_package_dependencies_lucide_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L13",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_frontend_package_dependencies_lucide_react",
+      "target": "lucide_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react",
+      "target": "react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react_dom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L15",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies_react_dom",
+      "target": "react_dom",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_dependencies",
+      "target": "stegovault_frontend_package_dependencies_recharts",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L16",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_frontend_package_dependencies_recharts",
+      "target": "recharts",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L16",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L18",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_js",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L19",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_js",
+      "target": "eslint_js",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_frontend_package_devdependencies_tailwindcss_vite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_frontend_package_devdependencies_tailwindcss_vite",
+      "target": "tailwindcss_vite",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L20",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_frontend_package_devdependencies_types_node",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L21",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_frontend_package_devdependencies_types_node",
+      "target": "types_node",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L22",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react",
+      "target": "types_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react_dom",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L23",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_types_react_dom",
+      "target": "types_react_dom",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L23",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vitejs_plugin_react",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L24",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vitejs_plugin_react",
+      "target": "vitejs_plugin_react",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L25",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint",
+      "target": "eslint",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L25",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_hooks",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L26",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_hooks",
+      "target": "eslint_plugin_react_hooks",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L26",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_refresh",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_eslint_plugin_react_refresh",
+      "target": "eslint_plugin_react_refresh",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L27",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_globals",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L28",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_globals",
+      "target": "globals",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L28",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "stegovault_frontend_package_devdependencies_tailwindcss",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L29",
+      "weight": 1.0
+    },
+    {
+      "source": "stegovault_frontend_package_devdependencies_tailwindcss",
+      "target": "tailwindcss",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L29",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies",
+      "target": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vite",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L30",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_package_json_stegovault_frontend_package_devdependencies_vite",
+      "target": "vite",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/package.json",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "lucide_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "recharts",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L10",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "c_users_jeeva_git_workshop_24_stegovault_ainnovation_frontend_stegovault_frontend_src_app_css",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L14",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_useclickoutside",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L20",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_filedropzone",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L34",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_alert",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L66",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_toggle",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L78",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_profiledropdown",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L88",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_advancedoptions",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L121",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_contextmenu",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L159",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_mock_secrets",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L176",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_secretmanagementtable",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L183",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_encodemodal",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L231",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_encodeview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L300",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_decodeview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L311",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_scorebar",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L381",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_analyzeview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L390",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_linkperfdata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L488",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_capacitydata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L497",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_activitydata",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L499",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_geo_data",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L509",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_tt",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L517",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_worldmap",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L519",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_statcard",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L570",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_analyticsview",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L583",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "src_app_tabs",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L682",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_app_jsx_src_app",
+      "target": "frontend_stegovault_frontend_src_app_jsx_src_app_app",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L689",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_profiledropdown",
+      "target": "src_app_useclickoutside",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L91",
+      "weight": 1.0
+    },
+    {
+      "source": "src_app_contextmenu",
+      "target": "src_app_useclickoutside",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/App.jsx",
+      "source_location": "L161",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_main_jsx_src_main",
+      "target": "react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_main_jsx_src_main",
+      "target": "client",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_main_jsx_src_main",
+      "target": "c_users_jeeva_git_workshop_24_stegovault_ainnovation_frontend_stegovault_frontend_src_index_css",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_src_main_jsx_src_main",
+      "target": "src_app",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/src/main.jsx",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_vite_config_js_stegovault_frontend_vite_config",
+      "target": "path",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/vite.config.js",
+      "source_location": "L1",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_vite_config_js_stegovault_frontend_vite_config",
+      "target": "vite",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/vite.config.js",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_vite_config_js_stegovault_frontend_vite_config",
+      "target": "plugin_react",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/vite.config.js",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "frontend_stegovault_frontend_vite_config_js_stegovault_frontend_vite_config",
+      "target": "vite",
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "frontend/stegovault-frontend/vite.config.js",
+      "source_location": "L4",
+      "weight": 1.0
+    },
+    {
+      "source": "package",
+      "target": "package_devdependencies",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0
+    },
+    {
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_shadcn",
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0
+    },
+    {
+      "source": "package_devdependencies_shadcn",
+      "target": "shadcn",
+      "relation": "imports",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "context": "import"
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_crypto_encrypt",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_crypto_decrypt",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L6",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_stego_encode",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views",
+      "target": "vault_stego_decode",
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "backend/vault/views.py",
+      "source_location": "L7",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views_encode_view",
+      "target": "vault_crypto_encrypt",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "backend/vault/views.py",
+      "source_location": "L27",
+      "weight": 1.0
+    },
+    {
+      "source": "vault_views_decode_view",
+      "target": "vault_crypto_decrypt",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "backend/vault/views.py",
+      "source_location": "L54",
+      "weight": 1.0
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

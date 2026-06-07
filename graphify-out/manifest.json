@@ -1,0 +1,27 @@
+{
+  "built_at": "2026-06-07T10:12:18.119156+00:00",
+  "root": "C:\\Users\\jeeva\\git-workshop-24\\StegoVault-AINNOVATION",
+  "corpus": {
+    "total_files": 36,
+    "total_words": 6757,
+    "code_files": 25,
+    "doc_files": 0,
+    "image_files": 0
+  },
+  "graph": {
+    "nodes": 178,
+    "edges": 283,
+    "hyperedges": 6,
+    "communities": 24
+  },
+  "outputs": [
+    "graphify-out/graph.html",
+    "graphify-out/graph.json",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "token_cost": {
+    "semantic_input": 8500,
+    "semantic_output": 2200,
+    "total_cost_estimate_usd": 0.0585
+  }
+}

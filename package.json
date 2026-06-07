@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "shadcn": "^4.10.0"
+  },
+  "scripts": {
+    "ui:design": "python3 skills/ui-ux-pro-max/scripts/search.py --design-system -f markdown",
+    "ui:search": "python3 skills/ui-ux-pro-max/scripts/search.py"
+  }
+}
